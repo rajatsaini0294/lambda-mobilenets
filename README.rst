@@ -28,8 +28,11 @@ MobileNet-v1 architecture:
    :align: center
 
 The following table shows which layer to replace and remove to get the performance boost:
+
 C: Conv layer same as in original architecture
+
 L: Lambda layer
+
 Blank cell represents that the layer is removed (replaced with identity layer)
 
 +----+----------------------------------------------------------------+------------+------------+
