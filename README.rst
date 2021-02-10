@@ -52,3 +52,44 @@ Blank cell represents that the layer is removed (replaced with identity layer)
 +----+---+---+---+---+---+---+---+---+---+---+----+----+----+----+----+------------+------------+
 | A6 | C | C | C |   | C |   | L |   |   |   |    |    |  C |    | FC |    0.71    |    66.38   |
 +----+---+---+---+---+---+---+---+---+---+---+----+----+----+----+----+------------+------------+
+
+Citations
+=========
+
+.. code-block:: cite1
+
+      @inproceedings{
+          anonymous2021lambdanetworks,
+          title={LambdaNetworks: Modeling long-range Interactions without Attention},
+          author={Anonymous},
+          booktitle={Submitted to International Conference on Learning Representations},
+          year={2021},
+          url={https://openreview.net/forum?id=xTJEN-ggl1b},
+          note={under review}
+      }
+
+.. code-block:: cite1
+
+      @article{DBLP:journals/corr/HowardZCKWWAA17,
+           author    = {Andrew G. Howard and
+                        Menglong Zhu and
+                        Bo Chen and
+                        Dmitry Kalenichenko and
+                        Weijun Wang and
+                        Tobias Weyand and
+                        Marco Andreetto and
+                        Hartwig Adam},
+           title     = {MobileNets: Efficient Convolutional Neural Networks for Mobile Vision
+                        Applications},
+           journal   = {CoRR},
+           volume    = {abs/1704.04861},
+           year      = {2017},
+           url       = {http://arxiv.org/abs/1704.04861},
+           archivePrefix = {arXiv},
+           eprint    = {1704.04861},
+           timestamp = {Mon, 13 Aug 2018 16:46:35 +0200},
+           biburl    = {https://dblp.org/rec/journals/corr/HowardZCKWWAA17.bib},
+           bibsource = {dblp computer science bibliography, https://dblp.org}
+         }
+
+
