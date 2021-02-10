@@ -22,3 +22,7 @@ Method
 We replace some layers in MobileNet-v1 architecture with lambda layer. It significantly reduces the parameters with some performance gain on cifar100 dataset.
 
 MobileNet-v1 architecture:
+
+.. image:: assets/mnetv1.svg
+   :height: 300px
+   :align: center
