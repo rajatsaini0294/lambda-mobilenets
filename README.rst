@@ -53,6 +53,8 @@ Blank cell represents that the layer is removed (replaced with identity layer)
 | A6 | C | C | C |   | C |   | L |   |   |   |    |    |  C |    | FC |    0.71    |    66.38   |
 +----+---+---+---+---+---+---+---+---+---+---+----+----+----+----+----+------------+------------+
 
+The above table shows significant gain in A5 configuration as compared to original configuration A1.
+
 Citations
 =========
 
